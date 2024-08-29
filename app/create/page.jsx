@@ -477,7 +477,7 @@ function Page() {
 
                 {/* Right side */}
                 <div className="w-5/12 p-4">
-                    <form className="space-y-4" onSubmit={handleSubmit}>
+                    <form className="space-y-4" >
                         <div>
                             <label htmlFor="title" className="block text-sm font-medium text-gray-700">Post
                                 Title</label>
